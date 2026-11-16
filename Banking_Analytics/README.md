@@ -101,7 +101,3 @@ It reflects **practical analytics workflows** used in banking, fintech, and fina
 
 ---
 
-If you want, next we will:
-- Refine **loan default risk metrics**
-- Build **customer lifetime risk scoring**
-- Prepare **portfolio KPIs** suitable for dashboards
